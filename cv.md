@@ -1,5 +1,5 @@
-# Victoria Tonkovich
-
+## Victoria Tonkovich
+***
 ### Contacts
 * **Phone:** +375 29 772 35 28
 * **E-mail:** tonkovich.vika@gmail.com
@@ -22,12 +22,15 @@ I believe that my strong desire to learn new skills will help me become an exper
 * Git/GitHub
 * Figma, Adobe Photoshop, Adobe Illustrator, CorelDraw
 
+
 ### Code example
 ```
 function multiply(a, b){
  return a * b
 }
 ```
+
+
 ### Work experience
 * **TapLab** *2020-2022*
 HTML coder 
@@ -36,9 +39,16 @@ Web developer
 * **CJSC “InterBusinessCenter”** *2018-2019*
 HTML coder 
 
+
 ### Education
 * **Belarusian State Technological University** *2014-2018*
     + Faculty of Information Technology, Design of electronic and web publications
 * **IT-Academy "BelHard"** *2022*
     + Modern Front-End with JavaScript and HTML5
 * **SkyEng** *2020-2022*
+
+
+#### Languages
+* **Belarusian** - native speaker.
+* **English** - A2 
+* **German** - B1
