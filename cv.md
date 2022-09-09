@@ -28,3 +28,17 @@ function multiply(a, b){
  return a * b
 }
 ```
+### Work experience
+* **TapLab** *2020-2022*
+HTML coder 
+* **Wholesale & Logistics Center “S-Video”** *2019-2020*
+Web developer
+* **CJSC “InterBusinessCenter”** *2018-2019*
+HTML coder 
+
+### Education
+* **Belarusian State Technological University** *2014-2018*
+    + Faculty of Information Technology, Design of electronic and web publications
+* **IT-Academy "BelHard"** *2022*
+    + Modern Front-End with JavaScript and HTML5
+* **SkyEng** *2020-2022*
